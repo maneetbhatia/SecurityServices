@@ -6,7 +6,9 @@
   "directories": {
     "doc": "docs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "homepage": "https://github.com/Maneet79/Security-Website#readme"
+  },
   "devDependencies": {},
   "scripts": {
     "predeploy": "npm run build",
@@ -24,6 +26,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Maneet79/Security-Website/issues"
-  },
-  "homepage": "https://github.com/Maneet79/Security-Website#readme"
+  }
+
 }
