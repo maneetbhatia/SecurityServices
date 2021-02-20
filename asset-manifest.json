@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Maneet79/Security-Websitestatic/css/main.ac5ab54c.chunk.css",
+    "main.js": "/Maneet79/Security-Websitestatic/js/main.f3064079.chunk.js",
+    "main.js.map": "/Maneet79/Security-Websitestatic/js/main.f3064079.chunk.js.map",
+    "runtime-main.js": "/Maneet79/Security-Websitestatic/js/runtime-main.a20766a9.js",
+    "runtime-main.js.map": "/Maneet79/Security-Websitestatic/js/runtime-main.a20766a9.js.map",
+    "static/js/2.9791d0c0.chunk.js": "/Maneet79/Security-Websitestatic/js/2.9791d0c0.chunk.js",
+    "static/js/2.9791d0c0.chunk.js.map": "/Maneet79/Security-Websitestatic/js/2.9791d0c0.chunk.js.map",
+    "index.html": "/Maneet79/Security-Websiteindex.html",
+    "precache-manifest.0c4b9c7b6ee2b6b14307281ae20bff40.js": "/Maneet79/Security-Websiteprecache-manifest.0c4b9c7b6ee2b6b14307281ae20bff40.js",
+    "service-worker.js": "/Maneet79/Security-Websiteservice-worker.js",
+    "static/css/main.ac5ab54c.chunk.css.map": "/Maneet79/Security-Websitestatic/css/main.ac5ab54c.chunk.css.map",
+    "static/js/2.9791d0c0.chunk.js.LICENSE.txt": "/Maneet79/Security-Websitestatic/js/2.9791d0c0.chunk.js.LICENSE.txt",
+    "static/media/3740777.jpg": "/Maneet79/Security-Websitestatic/media/3740777.4fad3374.jpg",
+    "static/media/comp-logo.png": "/Maneet79/Security-Websitestatic/media/comp-logo.57f90b8a.png",
+    "static/media/logo.svg": "/Maneet79/Security-Websitestatic/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/Maneet79/Security-Websitestatic/media/police.d3b2f0c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a20766a9.js",
+    "static/js/2.9791d0c0.chunk.js",
+    "static/css/main.ac5ab54c.chunk.css",
+    "static/js/main.f3064079.chunk.js"
+  ]
+}
