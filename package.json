@@ -1,7 +1,6 @@
 {
   "name": "security-website",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -39,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://github.com/Maneet79/Security-Website#readme",
+  "devDependencies": {},
+  "description": ""
 }
