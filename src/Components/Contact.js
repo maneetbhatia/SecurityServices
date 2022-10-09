@@ -26,7 +26,7 @@ const Contact = () => {
                   <h4>Email:</h4>
                   <p>
                     {" "}
-                    <a href="mailto:7starsecurity@gmail.com">
+                    <a href="mailto:maneetbhatia79@gmail.com">
                       security@services.com
                     </a>
                   </p>
