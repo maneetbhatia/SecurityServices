@@ -32,14 +32,13 @@ const Header = () =>{
                 </ul>
             </nav>
             <a
-            href="mailto:7starsecurity@gmail.com"
+            href="mailto:maneetbhatia79@gmail.com"
             className="get-started-btn scrollto"
         >
             Quote
         </a>
         </div>
     </header>
-
     )
 }
 

@@ -9,12 +9,12 @@ const Contact = () => {
             <h2>Contact</h2>
           </div>
           <div className="row">
-            <p />
+            <p></p>
             <div className="col-lg-5 d-flex align-items-stretch">
               <div className="info">
-                <hi className="contact-heading">
+                <h1 className="contact-heading">
                   Security Services 
-                </hi>
+                </h1>
                 <hr></hr>
                 <div className="address">
                   <i className="icofont-google-map" />

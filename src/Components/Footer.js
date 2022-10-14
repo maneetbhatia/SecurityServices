@@ -11,9 +11,7 @@ const Footer = () => {
                 <h3>Security Services</h3>
                 <p>
                 <strong>Address:</strong> 1234 00 Street,
-                 XYZ City
-                  <br />
-                 
+                  XYZ City
                   <br />
                   <br />
                   <strong>Phone:</strong> 123-123-1234
@@ -99,10 +97,6 @@ const Footer = () => {
             . All Rights Reserved
           </div>
           <div className="credits">
-            {/* All the links in the footer should remain intact. */}
-            {/* You can delete the links only if you purchased the pro version. */}
-            {/* Licensing information: https://bootstrapmade.com/license/ */}
-            {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ */}
           </div>
         </div>
       </footer>
