@@ -34,7 +34,7 @@ const Contact = () => {
                 <div className="phone">
                   <i className="icofont-phone" />
                   <h4>Call:</h4>
-                  <p>(123) 123 1234</p>
+                  <p>1800-securityservices</p>
                 </div>
               </div>
             </div>

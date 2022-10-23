@@ -18,12 +18,16 @@ const About = () =>{
                         We do carry Five Million worth of liability insurance as per
                         norms set for security industry.
                     </li>
+                    <br />
+                    <br />
                     <li>
                         <i className="ri-check-double-line" />
                         <b>Bonded</b> <br />
                         We are fully bonded (for $ 15,000) according to the
                         regulatory requirements.
                     </li>
+                    <br />
+                    <br />
                     <li>
                         <i className="ri-check-double-line" />{" "}
                         <b>Trained Officers</b>

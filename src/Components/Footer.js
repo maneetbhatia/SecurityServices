@@ -10,13 +10,12 @@ const Footer = () => {
               <div className="col-lg-3 col-md-6 footer-contact">
                 <h3>Security Services</h3>
                 <p>
-                <strong>Address:</strong> 1234 00 Street,
-                  XYZ City
+                  1234 Main Street
                   <br />
                   <br />
-                  <strong>Phone:</strong> 123-123-1234
+                    1800-securityservices
                   <br />
-                  <strong>Email:</strong> securityservices@gmail.com
+                  security@services.com
                   <br />
                 </p>
               </div>
@@ -33,10 +32,6 @@ const Footer = () => {
                   <li>
                     <i className="bx bx-chevron-right" />{" "}
                     <a href="#services">Services</a>
-                  </li>
-                  <li>
-                    <i className="bx bx-chevron-right" />{" "}
-                    <a href="#Solutions">Career</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />{" "}

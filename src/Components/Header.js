@@ -6,7 +6,7 @@ const Header = () =>{
     return ( <header id="header" className="fixed-top ">
         <div className="container d-flex align-items-center">
             <h1 className="logo mr-auto">
-                <a href="index.html">
+                <a href="/">
                 <img
                     width={50}
                     height={90}
@@ -17,8 +17,8 @@ const Header = () =>{
             </h1>
             <nav className="nav-menu d-none d-lg-block">
                 <ul>
-                    <li className="active">
-                        <a href="index.html">Home</a>
+                    <li>
+                        <a href="/">Home</a>
                     </li>
                     <li>
                         <a href="#about">About</a>
@@ -31,12 +31,12 @@ const Header = () =>{
                     </li>
                 </ul>
             </nav>
-            <a
+            {/* <a
             href="mailto:maneetbhatia79@gmail.com"
             className="get-started-btn scrollto"
         >
             Quote
-        </a>
+        </a> */}
         </div>
     </header>
     )
